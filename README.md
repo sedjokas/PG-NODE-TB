@@ -226,12 +226,13 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## Contact Us:
+## Contact Us: 
 
 **Prof. Selain K. Kasereka**  
-ABIL Research Center 
-University of Kinshasa
+ABIL Research Center  
+University of Kinshasa, DR Congo  
 Email: selain.kasereka@unikin.ac.cd  
+ABIL Research Center
 
 **Prof. Kyandoghere Kyamakya**  
 Institute of Smart Systems Technologies  
