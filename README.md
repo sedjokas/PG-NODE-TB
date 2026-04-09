@@ -2,9 +2,9 @@
 
 **Physics-Guided Neural Ordinary Differential Equations applied to TB epidemiology**
 
-> Kasereka S.K. et al.  
-> *"PG-NODE: Physics-Guided Neural Ordinary Differential Equations for Tuberculosis Transmission Dynamics: A Proof of Concept"*  
-> The 23rd International Conference on Mobile Systems and Pervasive Computing (MobiSPC 2026)  
+> Kasereka S.K. and K. Kyamakya  
+> *"PG-NODE: Physics-Guided Neural Ordinary Differential Equations for Tuberculosis Transmission Dynamics"*  
+> International Workshop on AI & Mathematical Methods for Real‑world Impact (AI2M4RI’2026)  
 > Procedia Computer Science, August 2026, Athens, Greece.
 
 ---
@@ -63,7 +63,7 @@ PG-NODE-TB/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PG-NODE-TB.git
+git clone https://github.com/sedjokas/PG-NODE-TB.git
 cd PG-NODE-TB
 pip install -r requirements.txt
 ```
@@ -105,7 +105,7 @@ Expected output (terminal):
 ```
 ============================================================
   PG-NODE for TB — Simulation Runner
-  Kasereka et al., MobiSPC 2026
+  Kasereka et al., Proof of Concept
 ============================================================
 
 =======================================================
@@ -150,7 +150,7 @@ Done.  All figures saved to: imgs/
 | Parameter | Symbol | Baseline | Unit | Source |
 |-----------|--------|----------|------|--------|
 | Recruitment rate | Lambda | 10,000 | yr^{-1} | Anderson & May 1991 |
-| Natural mortality | mu | 0.015 | yr^{-1} | WHO 2023 |
+| Natural mortality | mu | 0.015 | yr^{-1} | WHO 2025 |
 | Transmission rate | beta | 5.0 | yr^{-1} | Blower et al. 1995 |
 | Progression rate | k | 0.08 | yr^{-1} | Feng et al. 2000 |
 | Recovery rate | gamma | 1.0 | yr^{-1} | Castillo-Chavez 2002 |
@@ -213,11 +213,10 @@ If you use this code or the associated paper, please cite:
 
 ```bibtex
 @inproceedings{kasereka2026pgnode,
-  author    = {Kasereka, Selain K. and others},
+  author    = {Kasereka, Selain K. and Kyamakya, Kyandoghere},
   title     = {{PG-NODE}: Physics-Guided Neural Ordinary Differential Equations
                for Tuberculosis Transmission Dynamics: A Proof of Concept},
-  booktitle = {Proceedings of the 23rd International Conference on
-               Mobile Systems and Pervasive Computing (MobiSPC 2026)},
+  booktitle = {International Workshop on AI & Mathematical Methods for Real‑world Impact (AI2M4RI’2026)},
   series    = {Procedia Computer Science},
   year      = {2026},
   address   = {Athens, Greece},
@@ -233,10 +232,15 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## Contact
+## Contact Us:
 
 **Prof. Selain K. Kasereka**  
+ABIL Research Center 
+University of Kinshasa 
+Email: selain.kasereka@unikin.ac.cd  
+
+**Prof. Kyandoghere Kyamakya**  
 Institute of Smart Systems Technologies  
 University of Klagenfurt, Austria  
-Email: selain.kasereka@aau.at  
+Email: kyandoghere.kyamakya@aau.at  
 ABIL Research Center
