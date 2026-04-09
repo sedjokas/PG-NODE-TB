@@ -230,7 +230,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 **Prof. Selain K. Kasereka**  
 ABIL Research Center 
-University of Kinshasa 
+University of Kinshasa
 Email: selain.kasereka@unikin.ac.cd  
 
 **Prof. Kyandoghere Kyamakya**  
