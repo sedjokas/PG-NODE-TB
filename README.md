@@ -48,14 +48,13 @@ PG-NODE-TB/
 │   │                          - PG-NODE Scenario 2 (neural correction)
 │   │                          - PG-NODE Scenario 3 (optimal policy)
 │   ├── analysis.py          R0, sensitivity indices, equilibria
-│   ├── scenarios.py         Simulation scenarios + architecture diagram
+│   ├── scenarios.py         Simulation scenarios 
 │   └── utils.py             Plotting helpers, RMSE, figure saving
 │
 └── imgs/                    Output figures (PDF + PNG, gitignored)
     ├── scenario1_pgnode.{pdf,png}
     ├── scenario2_correction.{pdf,png}
-    ├── scenario3_forecast.{pdf,png}
-    └── pgnode_architecture.{pdf,png}
+    └── scenario3_forecast.{pdf,png}
 ```
 
 ---
@@ -96,8 +95,6 @@ python run_all.py --scenario 1   # Scenario 1 only
 python run_all.py --scenario 2   # Scenario 2 only
 python run_all.py --scenario 3   # Scenario 3 only
 
-# Skip the architecture diagram
-python run_all.py --no-arch
 ```
 
 Expected output (terminal):
@@ -136,9 +133,6 @@ Running Scenario 2: neural correction for SLIRT dynamics ...
 
 Running Scenario 3: intervention policy forecasting ...
   Saved: scenario3_forecast.pdf / scenario3_forecast.png  ->  imgs/
-
-Generating PG-NODE architecture diagram ...
-  Saved: pgnode_architecture.pdf / pgnode_architecture.png  ->  imgs/
 
 Done.  All figures saved to: imgs/
 ```
