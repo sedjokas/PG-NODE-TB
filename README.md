@@ -4,7 +4,7 @@
 
 > Kasereka S.K. and K. Kyamakya  
 > *"PG-NODE: Physics-Guided Neural Ordinary Differential Equations for Tuberculosis Transmission Dynamics"*  
-> International Workshop on AI & Mathematical Methods for Real‑world Impact (AI2M4RI’2026)  
+> The 23rd International Conference on Mobile Systems and Pervasive Computing (MobiSPC’2026)  
 > Procedia Computer Science, August 2026, Athens, Greece.
 
 ---
